@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi,
+
+Lili here this is my first time to try out github.
